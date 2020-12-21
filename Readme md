@@ -1,0 +1,6 @@
+We created the most ordinary game "Snake". Why did we choose this game? Because we are just starting to program and we wanted the first project that we will create to be a game.  Like many of us, we also played this game as a child and our childhood is associated with it. 
+
+How the game was created:
+First, you need to install the pygame library in Python and then you need to write code. In the game snake in green and as food for the snake, we chose an Apple. In General, the game works.
+
+https://youtu.be/5GNbqzduN5g
